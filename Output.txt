@@ -1,0 +1,81 @@
+
+1. The list of country names that have won a World Cup:
+'Argentina'
+'Brazil'
+'England'
+'France'
+'Germany'
+'Italy'
+'Spain'
+'Uruguay'
+
+2. The list of country names and the number of World Cups won (descending order):
+'Brazil' - Trophies: 5
+'Germany' - Trophies: 4
+'Italy' - Trophies: 4
+'Argentina' - Trophies: 2
+'Uruguay' - Trophies: 2
+'England' - Trophies: 1
+'France' - Trophies: 1
+'Spain' - Trophies: 1
+
+3. Capitals of countries with a population greater than 100 million (in increasing order):
+'Mexico' - Capital: 'Mexico City'
+'Japan' - Capital: 'Tokyo'
+'Russia' - Capital: 'Moscow'
+'Nigeria' - Capital: 'Abuja'
+'Brazil' - Capital: 'Brasilia'
+'USA' - Capital: 'Washington D.C.'
+
+4. Stadiums that hosted matches with more than 4 goals by a single team:
+'Arena Fonte Nova'
+'Arena Fonte Nova'
+'Estadio Mineirao'
+
+5. Cities with stadiums starting with 'Estadio':
+'Natal'
+'Belo Horizonte'
+'Fortaleza'
+'Brasilia'
+'Porto Alegre'
+'Rio De Janerio'
+
+6. Stadiums and the number of matches hosted by each stadium:
+'Arena Amazonia' - Matches Hosted: 4
+'Arena Da Baixada' - Matches Hosted: 4
+'Estadio Mineirao' - Matches Hosted: 6
+'Estadio das Dunas' - Matches Hosted: 4
+'Estadio do Maracana' - Matches Hosted: 7
+'Arena Pernamuco' - Matches Hosted: 5
+'Arena Pantanal' - Matches Hosted: 4
+'Estadio Castelao' - Matches Hosted: 6
+'Arena Fonte Nova' - Matches Hosted: 6
+'Estadio Beira-Rio' - Matches Hosted: 5
+'Arena de Sao Paulo' - Matches Hosted: 6
+'Estadio Nacional' - Matches Hosted: 7
+
+7. Players with heights greater than 198 cms:
+'FRASER' 'FORSTER' - Date of Birth: '1988-03-17'
+'LEE' 'BUMYOUNG' - Date of Birth: '1989-04-02'
+
+8. Matches played between 20-Jun-2014 and 24-Jun-2014:
+Stadium: 'Arena Pernamuco', Team1: 'Italy', Team2: 'Costa Rica', Date: '2014-06-20'
+Stadium: 'Arena Fonte Nova', Team1: 'Switzerland', Team2: 'France', Date: '2014-06-20'
+Stadium: 'Arena Da Baixada', Team1: 'Honduras', Team2: 'Ecuador', Date: '2014-06-20'
+Stadium: 'Estadio Mineirao', Team1: 'Argentina', Team2: 'Iran', Date: '2014-06-21'
+Stadium: 'Arena Pantanal', Team1: 'Nigeria', Team2: 'Bosnia & Herzegovina', Date: '2014-06-21'
+Stadium: 'Estadio Castelao', Team1: 'Germany', Team2: 'Ghana', Date: '2014-06-21'
+Stadium: 'Arena Amazonia', Team1: 'USA', Team2: 'Portugal', Date: '2014-06-22'
+Stadium: 'Estadio do Maracana', Team1: 'Belgium', Team2: 'Russia', Date: '2014-06-22'
+Stadium: 'Estadio Beira-Rio', Team1: 'South Korea', Team2: 'Algeria', Date: '2014-06-22'
+Stadium: 'Estadio Nacional', Team1: 'Cameroon', Team2: 'Brazil', Date: '2014-06-23'
+Stadium: 'Arena Pernamuco', Team1: 'Croatia', Team2: 'Mexico', Date: '2014-06-23'
+Stadium: 'Arena Da Baixada', Team1: 'Australia', Team2: 'Spain', Date: '2014-06-23'
+Stadium: 'Arena de Sao Paulo', Team1: 'Netherlands', Team2: 'Chile', Date: '2014-06-23'
+Stadium: 'Arena Pantanal', Team1: 'Japan', Team2: 'Columbia', Date: '2014-06-24'
+Stadium: 'Estadio Castelao', Team1: 'Greece', Team2: 'Ivory Coast', Date: '2014-06-24'
+Stadium: 'Estadio das Dunas', Team1: 'Italy', Team2: 'Uruguay', Date: '2014-06-24'
+Stadium: 'Estadio Mineirao', Team1: 'Costa Rica', Team2: 'England', Date: '2014-06-24'
+
+9. Captain Info with more than 2 Yellow cards or 1 Red card and their goals:
+Fname: 'THIAGO', Lname: 'SILVA', Position: 'Defender', Goals: 1

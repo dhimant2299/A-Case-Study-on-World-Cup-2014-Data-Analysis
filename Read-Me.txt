@@ -1,0 +1,5 @@
+Add folder to eclipse IDE
+create a mongodb connection with localhost:27017
+create an output.txt file
+run the code 
+The query will be saved into the output file.
