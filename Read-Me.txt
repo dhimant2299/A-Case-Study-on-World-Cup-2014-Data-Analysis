@@ -1,5 +1,22 @@
-Add folder to eclipse IDE
-create a mongodb connection with localhost:27017
-create an output.txt file
-run the code 
-The query will be saved into the output file.
+# World Cup 2014 Data Analysis with Java and MongoDB
+
+## Overview
+
+This project is a comprehensive data analysis tool developed using Java and MongoDB. It performs detailed analysis on the World Cup 2014 dataset, retrieving information about countries, matches, players, and stadiums. The results are systematically saved to an output text file, providing insights into various aspects of the tournament.
+
+## Features
+
+- **World Cup Winners:** Retrieves a list of countries that have won the World Cup and the number of trophies each has won.
+- **Country Population Analysis:** Identifies capitals of countries with populations greater than 100 million.
+- **High-Scoring Matches:** Extracts information on stadiums that hosted matches with more than 4 goals scored by a single team.
+- **Stadium and City Analysis:** Lists cities with stadiums named "Estadio" and provides the number of matches hosted by each stadium.
+- **Player Information:** Retrieves data on players taller than 198 cms and detailed captain statistics based on yellow/red cards and goals scored.
+- **Match Timeline:** Extracts match information within a specific date range, providing details on teams, stadiums, and match dates.
+
+## Technologies Used
+
+- **Programming Language:** Java
+- **Database:** MongoDB
+- **Libraries:** MongoDB Java Driver
+- **Skills:** Data Analysis, Database Querying, Data Aggregation, File Handling
+
